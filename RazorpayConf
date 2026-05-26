@@ -1,3 +1,11 @@
 spring.application.name=SpringBoot_Payment_Razerpay
 razorpay.api.key=your_api_key
 razorpay.api.secret=your_test_key
+
+
+
+<dependency>
+			<groupId>com.razorpay</groupId>
+			<artifactId>razorpay-java</artifactId>
+			<version>1.4.8</version>
+</dependency>
