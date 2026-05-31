@@ -1,4 +1,4 @@
-spring.application.name=SpringBoot_Payment_Razerpay
+
 razorpay.api.key=your_api_key
 razorpay.api.secret=your_test_key
 
