@@ -3,4 +3,5 @@
 
 
 
-<td><a href="edit?id=<%m.getId()%>>">Edit</a></td>
+<a href="edit/<%=movue.getId()%>">Edit</a>
+				
